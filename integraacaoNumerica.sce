@@ -10,7 +10,6 @@ function I = trapezio(a, b, n)
         I = I + 2*y(i); //2*y(i) por conta do próprio algoritmo do trapézio.
     end
     
-    I = H/2*(I + y(n+1));//também saí pela própria fórmula do trapézio.
-    
+    I = h/2*(I + y(n+1));//também saí pela própria fórmula do trapézio.
     
 endfunction
