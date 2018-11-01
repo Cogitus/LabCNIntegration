@@ -1,4 +1,4 @@
- é <>// As coordenadas aqui apresentadas sao aquelas que se encontram na imagem marcada.
+// As coordenadas aqui apresentadas sao aquelas que se encontram na imagem marcada.
 // (x_pontos,y_pontos) são as coordenadas de cada ponto da imagem.
 // centimetros é um vetor que representa a coordenada x de cada ponto em relação a régua
 // Deve-se lembrar que, dado a origem do sistema de eixos, os pontos estão nos locais certos
