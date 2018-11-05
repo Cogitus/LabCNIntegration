@@ -12,9 +12,8 @@ centimetros = [0 1.8 3.6 5.4 7.2 9 10.8 12.6 14.4 16.2 18.0]
 eixo = [111 329]
 
 
-/*
-O ponto sobre o centímetro 19 é [1597 605], enquanto aquele sobre 20 centímetros 
-é [1668 606], logo teremos a reta de comprimento sqrt( (1668-1597)² + (606-605)² )
-relativo a um centímetro.
-Isso nos leva à relação de 71.007042 pixel/cm. Podemos arredondar para 71 pixel/cm
-*/
+
+// O ponto sobre o centímetro 19 é [1597 605], enquanto aquele sobre 20 centímetros 
+// é [1668 606], logo teremos a reta de comprimento sqrt( (1668-1597)² + (606-605)² )
+// relativo a um centímetro.
+// Isso nos leva à relação de 71.007042 pixel/cm. Podemos arredondar para 71 pixel/cm
