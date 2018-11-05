@@ -1,7 +1,7 @@
 function area = integralSimpson(a, b, n)
     h = (b-a)/n;
     x = a:h:b;
-    y = sin(x);
+    y = y_pontos_de_integracao_cm.^2;
     area = y(1)+y(n+1);
     for i=2:1:n
         if modulo(i, 2) == 0
